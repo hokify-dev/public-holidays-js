@@ -37,7 +37,7 @@
   "homepage": "https://github.com/Mitica/public-holidays-js#readme",
   "dependencies": {
     "got": "^8.3.2",
-    "ical": "github:peterbraden/ical.js"
+    "ical": "github:peterbraden/ical.js#777755deb4bc205e633ad576b0b11e13caaca007"
   },
   "devDependencies": {
     "@types/got": "^8.3.3",
