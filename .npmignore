@@ -1,5 +1,4 @@
 *
-!dist/**
 !countries.json
 !package-lock.json
 !types/**
